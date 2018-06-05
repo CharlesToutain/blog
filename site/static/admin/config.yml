@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+
+  # This line should *not* be indented
+publish_mode: editorial_workflow
+
+# These lines should *not* be indented
+media_folder: "static/defimg/" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/defimg/" # The src attribute for uploaded media will begin with /images/uploads
+
+
+collections:
+  - name: "about" # Used in routes, e.g., /admin/collections/blog
+    label: "A propos" # Used in the UI
+    folder: "content/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "webdev" # Used in routes, e.g., /admin/collections/blog
+    label: "webdev" # Used in the UI
+    folder: "content/post/webdev/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "tags", name: "tags", widget: "string"}
+      - {label: "categories", name: "categories", widget: "string"}
+      - {label: "nomenu", name: "nomenu", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+    - name: "biz" # Used in routes, e.g., /admin/collections/blog
+    label: "biz" # Used in the UI
+    folder: "content/post/biz/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "tags", name: "tags", widget: "string"}
+      - {label: "categories", name: "categories", widget: "string"}
+      - {label: "nomenu", name: "nomenu", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}

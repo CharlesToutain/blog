@@ -1,0 +1,71 @@
+baseurl         = "/"
+theme           = "hugo-casper-two"
+languageCode    = "fr"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Le blog du dev"
+  subtitle    = "Le blog qui parle"
+  copyright   = "© 2018"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Le blog du dev est un blog que j'ai créé afin de partager mes astuces, infos et tutos que je découvre dans le monde du web, de l'informatique et du business online. Ce blog est aussi fait pour que vous puissiez échanger avec moi via mon système de commentaires ( disqus ). Mais aussi je suis en pleine réorienation pro et ce blog constitue un bonne entrainement pour moi."
+  metaDescription = "dev, blog, développeur web, web,webdesign,webmarketing,marketing,business,commercial"
+  customCSS = []
+  RSSLink = ""
+
+  
+  fbName = "charlesedouard.toutain"
+  githubName = "CharlesToutain"
+  linkedinName = "charles-edouard-toutain"
+
+  #logo = "https://res.cloudinary.com/ctinformatique/image/upload/c_scale,q_100,r_30,w_228/a_0/v1528226123/logo_blog.png"
+  orgName = "CTinformatique"
+  orgWebsite = "https://www.ctinformatique.fr/"
+  orgDescription = "CTinformatique, concepteur de site web situé en Basse-Normandie, propose de l'accompagnement web et digital pour les entreprises."
+
+  showSupport = true
+
+  author = "Charles-Edouard Toutain"
+  authorAvatar = "https://res.cloudinary.com/ctinformatique/image/upload/c_fit,h_343,q_100,w_115/v1528222257/charles_toutain.jpg"
+  authorLocation = "Basse-Normandie, France"
+  authorWebsite = "https://charles-edouard-toutain.fr/"
+  authorDescription = "Agé de 22 ans, j'ai commencé une réorientation professionelle en effet j'ai commencé par une carrière commerciale dans le secteur de l'IT et cyber sécurité. J'ai eu envie de me réorienter vers le metier de développeur web car je suis passioné d'informatique et de web. Aujourd'hui j'ai créé ce blog afin de partager ma veille commerciale et technique."
+
+  pageNotFoundTitle = "Oups la page n'existe pas, retourne sur l'accueil :)"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Développement web"
+  url = "/tags/webdev/"
+  weight = 100
+
+[[menu.main]]
+  name = "E-business"
+  url = "/tags/e-business/"
+  weight = 99
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 98
+
+[[menu.main]]
+  name = "Portfolio"
+  url = "https://charles-edouard-toutain.fr/"
+  weight = 95
+
+
