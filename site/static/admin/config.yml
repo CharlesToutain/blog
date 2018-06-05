@@ -14,7 +14,7 @@ public_folder: "/defimg/" # The src attribute for uploaded media will begin with
 collections:
   - name: "about" # Used in routes, e.g., /admin/collections/blog
     label: "A propos" # Used in the UI
-    folder: "content/" # The path to the folder where the documents are stored
+    folder: "site/content/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -24,7 +24,7 @@ collections:
 
   - name: "webdev" # Used in routes, e.g., /admin/collections/blog
     label: "webdev" # Used in the UI
-    folder: "content/post/webdev/" # The path to the folder where the documents are stored
+    folder: "site/content/post/webdev/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -37,7 +37,7 @@ collections:
 
   - name: "biz" # Used in routes, e.g., /admin/collections/blog
     label: "biz" # Used in the UI
-    folder: "content/post/biz/" # The path to the folder where the documents are stored
+    folder: "site/content/post/biz/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
