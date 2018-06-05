@@ -11,6 +11,8 @@ categories:
   - golang
 nomenu: main
 date: '2014-06-02'
+image: >-
+  https://res.cloudinary.com/ctinformatique/image/upload/v1528225017/jamstack.png
 ---
 Tous d'abord qu'est ce qu'une stack ?
   une stack c'est un ensemble de logiciels ou composants nécessaires pour créer une plate-forme complète.
