@@ -49,6 +49,11 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
+  name = "A propos"
+  url = "/tags/about"
+  weight = 150
+
+[[menu.main]]
   name = "Développement web"
   url = "/tags/webdev/"
   weight = 100
