@@ -1,21 +1,17 @@
-+++
-title = "JAM stack"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-    "webdev",
-]
-date = "2014-06-02"
-categories = [
-    "Development",
-    "golang",
-]
-nomenu = "main"
-image= "https://res.cloudinary.com/ctinformatique/image/upload/q_100/v1528225017/jamstack.png"
-+++
+---
+title: JAM stack
+tags:
+  - go
+  - golang
+  - hugo
+  - development
+  - webdev
+categories:
+  - Development
+  - golang
+nomenu: main
+date: '2014-06-02'
+---
 Tous d'abord qu'est ce qu'une stack ?
   une stack c'est un ensemble de logiciels ou composants nécessaires pour créer une plate-forme complète.
   Au début des années 2000 la stack populaire ressemblait à LAMP ou encore WAMP. Pour avoir un site internet il fallait une stack complète avec Linux, Apache MySQL et php. Le web a changé, JavaScript a évolué. En effet grâce au JS et à son evolution il est dès à présent possible d'avoir recour à une JAMstack.
@@ -46,8 +42,6 @@ _Un site dévéloppé avec un CMS WordPress, Drupal, Joomla, Prestashop_. Bien q
 _Une application Web developpée_ avec un langage serveur.(PHP, NodeJS, Ruby..). Je tiens à nuancer ce propos, en effet j'utilise nodeJS que environnement de développement afin de **build mes fichiers. **
 
 Créer un site uniquement en HTML/CSS/JS respecterait l'idée de la Jam stack, cependant aujourd'hui nous avons des outils bien plus puissant à l'instar des GSS ( générateurs de sites statiques ). 
-
-
 
 ## Ok mais pour quoi utiliser une JAMstack ?
 
@@ -97,6 +91,8 @@ Comme je le disais, c’est un secteur qui se développe rapidement, vous serez 
 Auparavant j'utilisais **WordPress**. 
 Depuis que j'ai découvert la JAM stack, je ne cesse de l'utiliser dans mes projets perso/pro. En effet je me suis formé sur Hexo et Hugo qui sont deux générateurs de sites statiques performants et puissant, aujourd'hui je commence à me former sur Gatsby qui s'apparente à un framework react.
 
-**Ce blog est créé avec HUGO et hébergé chez netlify le tous versionné sur github. Par ailleurs j'ai relié le CMS netlify avec lequel j'écrit cet article :).**
+**Ce blog est créé avec HUGO et hébergé chez netlify le tous versionné sur github. Par ailleurs j'ai relié le CMS netlify avec lequel j'écrit cet article :). Afin de garder de meilleur performance j'utilise cloudinary pour le stockage et l'optimisation des images.**
 
 La mouvance statique évolue grâce à l'émergence des technologies front-end, nous pouvons même créer des sites E-commerce en statique ! En effet grâce au service https://snipcart.com/fr nous connectons un panier d'achat en JS à notre site est le tour est joué ;).
+
+Prochainement un article sur l'utilisation de la jam stack pour le e-commerce à bientôt.
