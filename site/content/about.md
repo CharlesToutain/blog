@@ -1,18 +1,8 @@
-+++
-comments = false
-date = "2015-04-14T22:17:00+00:00"
-draft = false
-noauthor = true
-share = false
-title = "About me"
-type = "page"
-[menu.main]
-weight = 111
+---
+title: A propos
+---
+Bonjour, je suis Charles-Edouard Toutain j'habite en Basse-Normandie dans l'Orne ! Agé de 22 ans j'ai décidé de réorienter ma carrière vers le métier de développeur Web. En effet j'ai commencé par travailler en tant que commercial dans l'IT, les réseaux puis dans la cyber sécurité. Je suis actuellement à mon compte en tant que concepteur de site web et développeur web.
 
-+++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+Ce blog est donc un moyen pour moi de partager mes expériences, astuces, tutos et ma veille commerciale et technique.
+
+De plus ce blog m'entraîne à la maintenance d'un site, de plus cela me permet de l'utiliser comme labs ;).
