@@ -33,6 +33,7 @@ collections:
       - {label: "categories", name: "categories", widget: "string"}
       - {label: "nomenu", name: "nomenu", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "image", name: "image", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "biz" # Used in routes, e.g., /admin/collections/blog
@@ -46,4 +47,5 @@ collections:
       - {label: "categories", name: "categories", widget: "string"}
       - {label: "nomenu", name: "nomenu", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "image", name: "image", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
