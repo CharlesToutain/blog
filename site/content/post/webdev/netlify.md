@@ -1,16 +1,9 @@
 ---
 title: Netlify
-tags:
-  - go
-  - golang
-  - hugo
-  - development
-  - webdev
-categories:
-  - Development
-  - golang
+tags: '"go", "golang", "hugo", "development", "webdev" '
+categories: ' "Development", "golang" '
 nomenu: main
-date: '2014-06-02'
+date: '2014-06-03T00:41:00+02:00'
 image: >-
   https://res.cloudinary.com/ctinformatique/image/upload/q_100/v1528234756/blog/netlify.jpg
 ---
