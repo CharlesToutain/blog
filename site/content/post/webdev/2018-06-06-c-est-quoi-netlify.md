@@ -1,6 +1,6 @@
 ---
 title: C'est quoi netlify ?
-tags: 'List [ "hebergement", "netlify", "jamstack", "development", "webdev" ]'
+tags: 'List [ "webdev", "netlify", "jamstack", "hebergement", "webdev" ]'
 categories: 'List [ "webdev" ]'
 nomenu: main
 date: '2018-06-05T23:38:16+02:00'
