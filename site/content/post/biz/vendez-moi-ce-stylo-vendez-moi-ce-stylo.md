@@ -1,7 +1,13 @@
 ---
 title: Vendez moi ce stylo
-tags: 'e-business,commercial,webmarketing,marketing,loupdewallstreet'
-categories: 'e-business,commercial'
+tags:
+  - e-business
+  - commercial
+  - webmarketing
+  - vendre
+categories:
+  - e-business
+  - vendre
 nomenu: main
 date: '2018-06-06T13:01:54+02:00'
 image: >-
