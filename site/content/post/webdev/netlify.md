@@ -1,14 +1,7 @@
 ---
 title: Netlify
-tags:
-  - go
-  - golang
-  - hugo
-  - development
-  - webdev
-categories:
-  - Development
-  - golang
+tags: '"go", "golang", "hugo", "development", "webdev" '
+categories: ' "Development", "golang" '
 nomenu: main
 date: '2014-06-03T00:41:00+02:00'
 image: >-
