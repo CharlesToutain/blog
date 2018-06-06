@@ -1,17 +1,16 @@
 ---
-title: C'est quoi netlify ?
+title: Netlify
 tags:
   - go
   - golang
   - hugo
   - development
   - webdev
-  -hebergement
 categories:
   - Development
   - golang
 nomenu: main
-date: '2018-06-05T23:38:16+02:00'
+date: '2014-06-02'
 image: >-
   https://res.cloudinary.com/ctinformatique/image/upload/q_100/v1528234756/blog/netlify.jpg
 ---
