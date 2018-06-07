@@ -33,7 +33,7 @@ canonifyurls    = true
   authorAvatar = "https://res.cloudinary.com/ctinformatique/image/upload/c_fit,h_343,q_100,w_115/v1528222257/charles_toutain.jpg"
   authorLocation = "Basse-Normandie, France"
   authorWebsite = "https://charles-edouard-toutain.fr/"
-  authorDescription = "Agé de 22 ans, j'ai commencé une réorientation professionelle en effet j'ai commencé par une carrière commerciale dans le secteur de l'IT et cyber sécurité. J'ai eu envie de me réorienter vers le metier de développeur web car je suis passioné d'informatique et de web. Aujourd'hui j'ai créé ce blog afin de partager ma veille commerciale et technique."
+  authorDescription = "Agé de 22 ans, je suis passioné d'informatique de web et d'E-business. J'ai voulu créer ce blog afin de partager ma veille technique et commerciale."
 
   pageNotFoundTitle = "Oups la page n'existe pas, retourne sur l'accueil :)"
 
