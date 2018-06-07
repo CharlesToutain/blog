@@ -1,13 +1,8 @@
-.site-header, .site-footer{
-    background-color: #6f0084 !important;
-}
 
-.header{
-    position: absolute;
-    top:0;
-    height: 500px;
+.site-header, .site-footer {
+  background: linear-gradient( to right, #2f056b, #139e9d, #0a8692, #139e9d) !important;
+  background-size: 400% 400% !important;
 }
-
 
 h1 {
   background: linear-gradient(to right, #FFCC70, #FFCC70, #4158D0);
