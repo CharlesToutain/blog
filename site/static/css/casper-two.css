@@ -1,11 +1,12 @@
-
-.site-header, .site-footer {
-  background: linear-gradient(to right, #4158D0, #C850C0, #C850C0, #FFCC70) !important; 
-  background-size: 400% 400% !important;
-  -webkit-animation: Gradient 15s ease infinite !important;
-          animation: Gradient 15s ease infinite !important;
+.site-header, .site-footer{
+    background-color: #6f0084 !important;
 }
 
+.header{
+    position: absolute;
+    top:0;
+    height: 500px;
+}
 
 
 h1 {
