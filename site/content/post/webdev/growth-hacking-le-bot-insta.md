@@ -1,16 +1,17 @@
 ---
 title: 'Growth hacking : Le bot instagram'
-tags: |-
-  :
+description: Cet article parle de l'utilisation de robot instagram dans une stratégie de growth hacking, nous abordons le concept de growth hacking et survolons l'utilisation de InstaPy.
+tags:
     - growth-hacking
     - bizdev
     - development
     - webdev
-categories: |-
-  :
+
+categories:
     - e-business
     - growth-hacking
     - webdev
+
 nomenu: main
 date: '2018-06-07T20:23:16+02:00'
 image: >-
