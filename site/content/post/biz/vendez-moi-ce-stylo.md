@@ -80,5 +80,3 @@ De même pour un stylo, une voiture, un site web, une formation...  On vend un b
 La réponse est oui ! Un stylo est aussi simple à vendre qu'un autre produit. C'est seulement à vous de créer le besoin  et d'y apporter la réponse à l'aide de votre solution ! 
 
 A vous de jouer maintenant ! Arrêtez de vendre des produits, faites acheter une solution à un problème ! 
-
-https://res.cloudinary.com/ctinformatique/image/upload/c_scale,q_100,w_196/v1528283091/blog/thulbnail-vendez-moi-ce-stylo-e1474035099595.png
