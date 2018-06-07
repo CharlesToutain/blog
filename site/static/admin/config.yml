@@ -19,6 +19,7 @@ collections:
     slug: "{{title}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -29,6 +30,7 @@ collections:
     slug: "{{title}}-{{slug}}"  #Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
       - {label: "tags", name: "tags", widget: "markdown"}
       - {label: "categories", name: "categories", widget: "markdown"}
       - {label: "nomenu", name: "nomenu", widget: "string"}
@@ -43,6 +45,7 @@ collections:
     slug: "{{title}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
       - {label: "tags", name: "tags", widget: "markdown"}
       - {label: "categories", name: "categories", widget: "markdown"}
       - {label: "nomenu", name: "nomenu", widget: "string"}

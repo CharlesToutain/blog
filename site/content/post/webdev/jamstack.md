@@ -1,5 +1,6 @@
 ---
 title: JAM stack
+description: Article qui parle des bénéfices qu'apportent les architectures web à base de Jam stack. 
 tags:
   - go
   - golang

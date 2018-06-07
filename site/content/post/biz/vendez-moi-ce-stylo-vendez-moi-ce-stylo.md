@@ -1,5 +1,6 @@
 ---
 title: Vendez moi ce stylo
+description: La fameuse réplique du loup de wall street vendez moi ce stylo, nous allons la décrypter dans cet article.
 tags:
   - e-business
   - commercial

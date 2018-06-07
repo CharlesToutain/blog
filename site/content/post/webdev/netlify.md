@@ -1,5 +1,6 @@
 ---
 title: Netlify
+description: Article de blog qui décrit les avantages et fonctionnalités qu'offre l'hébergeur netlify. C'est un hébergeur spécialisé dans les sites statiques et architectures à base de JAM stack.
 tags:
   - go
   - golang

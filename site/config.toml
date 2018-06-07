@@ -50,7 +50,7 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "A propos"
-  url = "/tags/about"
+  url = "/about"
   weight = 150
 
 [[menu.main]]
