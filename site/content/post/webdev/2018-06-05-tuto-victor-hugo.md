@@ -1,5 +1,9 @@
 ---
 title: Tuto Victor-Hugo
+description: >-
+  petit tutoriel écrit sur le gss  hugo et la JAM stack. Ici je montre comment
+  installer le framework victor hugo puis l'ajout d'un thème hugo et l'envoie
+  sur le service de netlify.
 tags: 'List [ "go", "golang", "hugo", "webdev", "jamstack", "gss" ]'
 categories: 'List [ "Development", "golang" ]'
 nomenu: main
@@ -66,3 +70,19 @@ npm start
 ```
 
 Cela lancera le serveur nodejs qui généra les fichiers et vous l'affichera sur votre navigateur.
+
+Et voilà ! Votre premier site avec HUGO et le framework Victor Hugo.
+
+## Ajouter un thème
+
+Dans ce tuto je ne vais pas m'attarder sur la création d'un thème, je vais vous expliquer comment mettre un thème déjà existant. Rendez-vous sur : <https://themes.gohugo.io/> Vous verrez qu'il y a énormément de thème disponible et vraiment pas mal de base, de plus même si il y a la présence du langage GO ( <https://golang.io/fr/> ) qui est très simple à lire vous pourrez de toute façon customiser le thème très facilement en HTML/CSS/JS.
+
+### Télécharger le thème voulu
+
+Une fois le thème téléchargé, rendez-vous dans votre dossier victor-hugo et dans le dossier site vous créerais le dossier "thèmes". 
+
+```
+mkdir themes
+```
+
+Vous décompressez le thème que vous avez téléchargé à l'intérieur du dossier thèmes.
