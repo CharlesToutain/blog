@@ -1,15 +1,16 @@
 ---
-title: Gagnez en impact marketing avec A I D A.
+title: Gagner en impact marketing avec A I D A.
 description: >-
   Un article sur la fameuse méthode A I D A ( Attention,  Intérêt, Désir, Action
   ). Utilisé principalement dans le marketing opérationnelle et la publicité.
   C'est une méthode incontournable du marketing.
-tags: |-
+tags: 
   - E-business
   - webmarketing
   - AIDA
   - marketing-opérationnelle
-categories: \- E-business
+categories: 
+- E-business
 nomenu: main
 date: '2018-06-09T23:20:34+02:00'
 image: >-
