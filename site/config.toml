@@ -68,10 +68,6 @@ canonifyurls    = true
   url = "/categories/"
   weight = 98
 
-[[menu.main]]
-  name = "Formations"
-  url = "/tags/formations"
-  weight = 97
 
 [[menu.main]]
   name = "Portfolio"
