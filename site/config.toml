@@ -69,6 +69,11 @@ canonifyurls    = true
   weight = 98
 
 [[menu.main]]
+  name = "Formations"
+  url = "/tags/formations"
+  weight = 97
+
+[[menu.main]]
   name = "Portfolio"
   url = "https://charles-edouard-toutain.fr/"
   weight = 95
